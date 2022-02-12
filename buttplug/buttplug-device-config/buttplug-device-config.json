@@ -98,9 +98,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Lovense Device"
-        },
+        "name": "Lovense Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -116,17 +114,13 @@
           "identifier": [
             "B"
           ],
-          "name": {
-            "en-us": "Lovense Max"
-          }
+          "name": "Lovense Max"
         },
         {
           "identifier": [
             "P"
           ],
-          "name": {
-            "en-us": "Lovense Edge"
-          },
+          "name": "Lovense Edge",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -143,9 +137,7 @@
             "A",
             "C"
           ],
-          "name": {
-            "en-us": "Lovense Nora"
-          },
+          "name": "Lovense Nora",
           "messages": {
             "RotateCmd": {
               "FeatureCount": 1,
@@ -160,89 +152,67 @@
           "identifier": [
             "L"
           ],
-          "name": {
-            "en-us": "Lovense Ambi"
-          }
+          "name": "Lovense Ambi"
         },
         {
           "identifier": [
             "S"
           ],
-          "name": {
-            "en-us": "Lovense Lush"
-          }
+          "name": "Lovense Lush"
         },
         {
           "identifier": [
             "Z"
           ],
-          "name": {
-            "en-us": "Lovense Hush"
-          }
+          "name": "Lovense Hush"
         },
         {
           "identifier": [
             "W"
           ],
-          "name": {
-            "en-us": "Lovense Domi"
-          }
+          "name": "Lovense Domi"
         },
         {
           "identifier": [
             "O"
           ],
-          "name": {
-            "en-us": "Lovense Osci"
-          }
+          "name": "Lovense Osci"
         },
         {
           "identifier": [
             "V"
           ],
-          "name": {
-            "en-us": "Lovense Mission"
-          }
+          "name": "Lovense Mission"
         },
         {
           "identifier": [
             "X"
           ],
-          "name": {
-            "en-us": "Lovense Ferri"
-          }
+          "name": "Lovense Ferri"
         },
         {
           "identifier": [
             "R"
           ],
-          "name": {
-            "en-us": "Lovense Diamo"
-          }
+          "name": "Lovense Diamo"
         },
         {
           "identifier": [
             "ToyS"
           ],
-          "name": {
-            "en-us": "Loveai Dolp"
-          }
+          "name": "Loveai Dolp"
         },
         {
           "identifier": [
             "F"
           ],
-          "name": {
-            "en-us": "Lovense Ridge"
-          }
+          "name": "Lovense Ridge"
         },
         {
           "identifier": [
             "J"
           ],
-          "name": {
-            "en-us": "Lovense Dolce"
-          },
+          "name": "Lovense Dolce",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -258,17 +228,13 @@
           "identifier": [
             "ED"
           ],
-          "name": {
-            "en-us": "Lovense Gush"
-          }
+          "name": "Lovense Gush"
         },
         {
           "identifier": [
             "EB"
           ],
-          "name": {
-            "en-us": "Lovense Hyphy"
-          },
+          "name": "Lovense Hyphy",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -284,9 +250,7 @@
           "identifier": [
             "T"
           ],
-          "name": {
-            "en-us": "Lovense Calor"
-          }
+          "name": "Lovense Calor"
         }
       ]
     },
@@ -295,9 +259,7 @@
         "exists": true
       },
       "defaults": {
-        "name": {
-          "en-us": "Lovense Connect Service Device"
-        },
+        "name": "Lovense Connect Service Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -313,17 +275,13 @@
           "identifier": [
             "Max"
           ],
-          "name": {
-            "en-us": "Lovense Max"
-          }
+          "name": "Lovense Max"
         },
         {
           "identifier": [
             "Edge"
           ],
-          "name": {
-            "en-us": "Lovense Edge"
-          },
+          "name": "Lovense Edge",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -339,9 +297,7 @@
           "identifier": [
             "Nora"
           ],
-          "name": {
-            "en-us": "Lovense Nora"
-          },
+          "name": "Lovense Nora",
           "messages": {
             "RotateCmd": {
               "FeatureCount": 1,
@@ -356,89 +312,67 @@
           "identifier": [
             "Ambi"
           ],
-          "name": {
-            "en-us": "Lovense Ambi"
-          }
+          "name": "Lovense Ambi"
         },
         {
           "identifier": [
             "Lush"
           ],
-          "name": {
-            "en-us": "Lovense Lush"
-          }
+          "name": "Lovense Lush"
         },
         {
           "identifier": [
             "Hush"
           ],
-          "name": {
-            "en-us": "Lovense Hush"
-          }
+          "name": "Lovense Hush"
         },
         {
           "identifier": [
             "Domi"
           ],
-          "name": {
-            "en-us": "Lovense Domi"
-          }
+          "name": "Lovense Domi"
         },
         {
           "identifier": [
             "Osci"
           ],
-          "name": {
-            "en-us": "Lovense Osci"
-          }
+          "name": "Lovense Osci"
         },
         {
           "identifier": [
             "Mission"
           ],
-          "name": {
-            "en-us": "Lovense Mission"
-          }
+          "name": "Lovense Mission"
         },
         {
           "identifier": [
             "Ferri"
           ],
-          "name": {
-            "en-us": "Lovense Ferri"
-          }
+          "name": "Lovense Ferri"
         },
         {
           "identifier": [
             "Diamo"
           ],
-          "name": {
-            "en-us": "Lovense Diamo"
-          }
+          "name": "Lovense Diamo"
         },
         {
           "identifier": [
             "ToyS"
           ],
-          "name": {
-            "en-us": "Loveai Dolp"
-          }
+          "name": "Loveai Dolp"
         },
         {
           "identifier": [
             "F"
           ],
-          "name": {
-            "en-us": "Lovense Ridge"
-          }
+          "name": "Lovense Ridge"
         },
         {
           "identifier": [
             "J"
           ],
-          "name": {
-            "en-us": "Lovense Dolce"
-          },
+          "name": "Lovense Dolce",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -454,17 +388,13 @@
           "identifier": [
             "ED"
           ],
-          "name": {
-            "en-us": "Lovense Gush"
-          }
+          "name": "Lovense Gush"
         },
         {
           "identifier": [
             "EB"
           ],
-          "name": {
-            "en-us": "Lovense Hyphy"
-          },
+          "name": "Lovense Hyphy",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -480,9 +410,7 @@
           "identifier": [
             "T"
           ],
-          "name": {
-            "en-us": "Lovense Calor"
-          }
+          "name": "Lovense Calor"
         }
       ]
     },
@@ -491,9 +419,7 @@
         "exists": true
       },
       "defaults": {
-        "name": {
-          "en-us": "XBox (XInput) Compatible Gamepad"
-        },
+        "name": "XBox (XInput) Compatible Gamepad",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -525,9 +451,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Kiiroo v2 Device"
-        },
+        "name": "Kiiroo v2 Device",
         "messages": {
           "LinearCmd": {
             "FeatureCount": 1,
@@ -543,17 +467,13 @@
           "identifier": [
             "Launch"
           ],
-          "name": {
-            "en-us": "Fleshlight Launch"
-          }
+          "name": "Fleshlight Launch"
         },
         {
           "identifier": [
             "Onyx2"
           ],
-          "name": {
-            "en-us": "Kiiroo Onyx 2"
-          }
+          "name": "Kiiroo Onyx 2"
         }
       ]
     },
@@ -571,9 +491,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Libo Elle Device"
-        },
+        "name": "Libo Elle Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -588,17 +506,13 @@
           "identifier": [
             "PiPiJing"
           ],
-          "name": {
-            "en-us": "LiBo Elle"
-          }
+          "name": "LiBo Elle"
         },
         {
           "identifier": [
             "Shuidi"
           ],
-          "name": {
-            "en-us": "Libo Elle 2"
-          }
+          "name": "Libo Elle 2"
         }
       ]
     },
@@ -615,9 +529,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Libo Shark"
-        },
+        "name": "Libo Shark",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -645,9 +557,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Libo Karen"
-        },
+        "name": "Libo Karen",
         "messages": {}
       }
     },
@@ -675,9 +585,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Libo Vibes Device"
-        },
+        "name": "Libo Vibes Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -692,81 +600,61 @@
           "identifier": [
             "XiaoLu"
           ],
-          "name": {
-            "en-us": "Libo Lottie"
-          }
+          "name": "Libo Lottie"
         },
         {
           "identifier": [
             "MonsterPub"
           ],
-          "name": {
-            "en-us": "Sistalk MonsterPub"
-          }
+          "name": "Sistalk MonsterPub"
         },
         {
           "identifier": [
             "LuXiaoHan"
           ],
-          "name": {
-            "en-us": "Libo LuLu"
-          }
+          "name": "Libo LuLu"
         },
         {
           "identifier": [
             "Yuyi"
           ],
-          "name": {
-            "en-us": "Libo Lina"
-          }
+          "name": "Libo Lina"
         },
         {
           "identifier": [
             "LuWuShuang"
           ],
-          "name": {
-            "en-us": "Libo Adel"
-          }
+          "name": "Libo Adel"
         },
         {
           "identifier": [
             "LiBo"
           ],
-          "name": {
-            "en-us": "Libo Lily"
-          }
+          "name": "Libo Lily"
         },
         {
           "identifier": [
             "QingTing"
           ],
-          "name": {
-            "en-us": "Libo Lucy"
-          }
+          "name": "Libo Lucy"
         },
         {
           "identifier": [
             "Huohu"
           ],
-          "name": {
-            "en-us": "Libo Lara"
-          }
+          "name": "Libo Lara"
         },
         {
           "identifier": [
             "Yuyi"
           ],
-          "name": {
-            "en-us": "Libo Feather"
-          }
+          "name": "Libo Feather"
         },
         {
           "identifier": [
             "BaiHu"
           ],
-          "name": {
-            "en-us": "Libo LaLa"
-          },
+          "name": "Libo LaLa",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -781,9 +669,7 @@
           "identifier": [
             "Gugudai"
           ],
-          "name": {
-            "en-us": "Libo Carlos"
-          },
+          "name": "Libo Carlos",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -798,9 +684,7 @@
           "identifier": [
             "Haima"
           ],
-          "name": {
-            "en-us": "Libo Selina"
-          },
+          "name": "Libo Selina",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -835,9 +719,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Magic Motion V1 Device"
-        },
+        "name": "Magic Motion V1 Device",
         "messages": {
           "BatteryLevelCmd": {},
           "RSSILevelCmd": {},
@@ -854,81 +736,61 @@
           "identifier": [
             "Smart Bean"
           ],
-          "name": {
-            "en-us": "MagicMotion Smart Bean"
-          }
+          "name": "MagicMotion Smart Bean"
         },
         {
           "identifier": [
             "Smart Mini Vibe"
           ],
-          "name": {
-            "en-us": "MagicMotion Smart Mini Vibe"
-          }
+          "name": "MagicMotion Smart Mini Vibe"
         },
         {
           "identifier": [
             "Smart Mini Vibe3"
           ],
-          "name": {
-            "en-us": "MagicMotion Vini"
-          }
+          "name": "MagicMotion Vini"
         },
         {
           "identifier": [
             "Flamingo"
           ],
-          "name": {
-            "en-us": "MagicMotion Flamingo"
-          }
+          "name": "MagicMotion Flamingo"
         },
         {
           "identifier": [
             "Magic Bean"
           ],
-          "name": {
-            "en-us": "MagicMotion Kegel"
-          }
+          "name": "MagicMotion Kegel"
         },
         {
           "identifier": [
             "Magic Cell"
           ],
-          "name": {
-            "en-us": "MagicMotion Dante/Candy"
-          }
+          "name": "MagicMotion Dante/Candy"
         },
         {
           "identifier": [
             "Magic Wand"
           ],
-          "name": {
-            "en-us": "MagicMotion Wand"
-          }
+          "name": "MagicMotion Wand"
         },
         {
           "identifier": [
             "Magic Fugu"
           ],
-          "name": {
-            "en-us": "MagicMotion Fugu"
-          }
+          "name": "MagicMotion Fugu"
         },
         {
           "identifier": [
             "Gballs2"
           ],
-          "name": {
-            "en-us": "G Vibe Gballs 2"
-          }
+          "name": "G Vibe Gballs 2"
         },
         {
           "identifier": [
             "FM-LILAC-101"
           ],
-          "name": {
-            "en-us": "Femometer Lilac"
-          }
+          "name": "Femometer Lilac"
         }
       ]
     },
@@ -950,9 +812,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Magic Motion V2 Device"
-        },
+        "name": "Magic Motion V2 Device",
         "messages": {
           "BatteryLevelCmd": {},
           "RSSILevelCmd": {},
@@ -969,33 +829,25 @@
           "identifier": [
             "Lipstick"
           ],
-          "name": {
-            "en-us": "MagicMotion Awaken"
-          }
+          "name": "MagicMotion Awaken"
         },
         {
           "identifier": [
             "Sword"
           ],
-          "name": {
-            "en-us": "MagicMotion Equinox"
-          }
+          "name": "MagicMotion Equinox"
         },
         {
           "identifier": [
             "Curve"
           ],
-          "name": {
-            "en-us": "MagicMotion Solstice"
-          }
+          "name": "MagicMotion Solstice"
         },
         {
           "identifier": [
             "Eidolon"
           ],
-          "name": {
-            "en-us": "MagicMotion Eidolon"
-          },
+          "name": "MagicMotion Eidolon",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1023,9 +875,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "LoveLife Krush"
-        },
+        "name": "LoveLife Krush",
         "messages": {
           "BatteryLevelCmd": {},
           "RSSILevelCmd": {},
@@ -1058,9 +908,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Magic Motion V4 Device"
-        },
+        "name": "Magic Motion V4 Device",
         "messages": {
           "BatteryLevelCmd": {},
           "RSSILevelCmd": {},
@@ -1077,49 +925,37 @@
           "identifier": [
             "funone"
           ],
-          "name": {
-            "en-us": "MagicMotion Bunny"
-          }
+          "name": "MagicMotion Bunny"
         },
         {
           "identifier": [
             "Magic Sundi"
           ],
-          "name": {
-            "en-us": "MagicMotion Sundae"
-          }
+          "name": "MagicMotion Sundae"
         },
         {
           "identifier": [
             "Kegel Coach"
           ],
-          "name": {
-            "en-us": "MagicMotion Kegel Coach"
-          }
+          "name": "MagicMotion Kegel Coach"
         },
         {
           "identifier": [
             "Magic Lotos"
           ],
-          "name": {
-            "en-us": "MagicMotion Lotos"
-          }
+          "name": "MagicMotion Lotos"
         },
         {
           "identifier": [
             "nyx"
           ],
-          "name": {
-            "en-us": "MagicMotion Nyx"
-          }
+          "name": "MagicMotion Nyx"
         },
         {
           "identifier": [
             "umi"
           ],
-          "name": {
-            "en-us": "MagicMotion Umi"
-          },
+          "name": "MagicMotion Umi",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1147,9 +983,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Mysteryvibe Device"
-        },
+        "name": "Mysteryvibe Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 6,
@@ -1169,25 +1003,19 @@
           "identifier": [
             "MV Crescendo"
           ],
-          "name": {
-            "en-us": "MysteryVibe Crescendo"
-          }
+          "name": "MysteryVibe Crescendo"
         },
         {
           "identifier": [
             "MV Tenuto   "
           ],
-          "name": {
-            "en-us": "MysteryVibe Tenuto"
-          }
+          "name": "MysteryVibe Tenuto"
         },
         {
           "identifier": [
             "MV Poco     "
           ],
-          "name": {
-            "en-us": "MysteryVibe Poco"
-          },
+          "name": "MysteryVibe Poco",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1221,9 +1049,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Picobong Device"
-        },
+        "name": "Picobong Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -1239,27 +1065,21 @@
             "Blow hole",
             "Picobong Male Toy"
           ],
-          "name": {
-            "en-us": "Picobong Blow hole"
-          }
+          "name": "Picobong Blow hole"
         },
         {
           "identifier": [
             "Diver",
             "Picobong Egg"
           ],
-          "name": {
-            "en-us": "Picobong Diver"
-          }
+          "name": "Picobong Diver"
         },
         {
           "identifier": [
             "Life guard",
             "Picobong Ring"
           ],
-          "name": {
-            "en-us": "Picobong Life guard"
-          }
+          "name": "Picobong Life guard"
         },
         {
           "identifier": [
@@ -1268,9 +1088,7 @@
             "Egg driver",
             "Surfer_plug"
           ],
-          "name": {
-            "en-us": "Picobong Surfer"
-          }
+          "name": "Picobong Surfer"
         }
       ]
     },
@@ -1294,9 +1112,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Vibratissimo Device"
-        },
+        "name": "Vibratissimo Device",
         "messages": {
           "BatteryLevelCmd": {},
           "RSSILevelCmd": {},
@@ -1315,9 +1131,7 @@
             "SecretKiss",
             "Womenizer"
           ],
-          "name": {
-            "en-us": "Vibratissimo Licker"
-          },
+          "name": "Vibratissimo Licker",
           "messages": {
             "BatteryLevelCmd": {},
             "RSSILevelCmd": {},
@@ -1334,9 +1148,7 @@
           "identifier": [
             "Rabbit"
           ],
-          "name": {
-            "en-us": "Vibratissimo Rabbit"
-          },
+          "name": "Vibratissimo Rabbit",
           "messages": {
             "BatteryLevelCmd": {},
             "RSSILevelCmd": {},
@@ -1381,9 +1193,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "WeVibe Device"
-        },
+        "name": "WeVibe Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -1398,65 +1208,49 @@
           "identifier": [
             "Bloom"
           ],
-          "name": {
-            "en-us": "WeVibe Bloom"
-          }
+          "name": "WeVibe Bloom"
         },
         {
           "identifier": [
             "Ditto"
           ],
-          "name": {
-            "en-us": "WeVibe Ditto"
-          }
+          "name": "WeVibe Ditto"
         },
         {
           "identifier": [
             "Jive"
           ],
-          "name": {
-            "en-us": "WeVibe Jive"
-          }
+          "name": "WeVibe Jive"
         },
         {
           "identifier": [
             "Pivot"
           ],
-          "name": {
-            "en-us": "WeVibe Pivot"
-          }
+          "name": "WeVibe Pivot"
         },
         {
           "identifier": [
             "Rave"
           ],
-          "name": {
-            "en-us": "WeVibe Rave"
-          }
+          "name": "WeVibe Rave"
         },
         {
           "identifier": [
             "Verge"
           ],
-          "name": {
-            "en-us": "WeVibe Verge"
-          }
+          "name": "WeVibe Verge"
         },
         {
           "identifier": [
             "Skeena"
           ],
-          "name": {
-            "en-us": "WeVibe Skeena"
-          }
+          "name": "WeVibe Skeena"
         },
         {
           "identifier": [
             "Wish"
           ],
-          "name": {
-            "en-us": "WeVibe Wish"
-          }
+          "name": "WeVibe Wish"
         },
         {
           "identifier": [
@@ -1467,9 +1261,7 @@
             "classic",
             "Classic"
           ],
-          "name": {
-            "en-us": "WeVibe 4 Plus"
-          },
+          "name": "WeVibe 4 Plus",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1484,9 +1276,7 @@
           "identifier": [
             "Gala"
           ],
-          "name": {
-            "en-us": "WeVibe Gala"
-          },
+          "name": "WeVibe Gala",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1501,9 +1291,7 @@
           "identifier": [
             "Nova"
           ],
-          "name": {
-            "en-us": "WeVibe Nova"
-          },
+          "name": "WeVibe Nova",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1518,9 +1306,7 @@
           "identifier": [
             "Sync"
           ],
-          "name": {
-            "en-us": "WeVibe Sync"
-          },
+          "name": "WeVibe Sync",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1555,9 +1341,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "WeVibe 8-bit Device"
-        },
+        "name": "WeVibe 8-bit Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -1572,9 +1356,7 @@
           "identifier": [
             "Chorus"
           ],
-          "name": {
-            "en-us": "WeVibe Chorus"
-          },
+          "name": "WeVibe Chorus",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1589,9 +1371,7 @@
           "identifier": [
             "Melt"
           ],
-          "name": {
-            "en-us": "WeVibe Melt"
-          },
+          "name": "WeVibe Melt",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -1605,17 +1385,13 @@
           "identifier": [
             "Moxie"
           ],
-          "name": {
-            "en-us": "WeVibe Moxie"
-          }
+          "name": "WeVibe Moxie"
         },
         {
           "identifier": [
             "Vector"
           ],
-          "name": {
-            "en-us": "WeVibe Vector"
-          },
+          "name": "WeVibe Vector",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1630,9 +1406,7 @@
           "identifier": [
             "Wand"
           ],
-          "name": {
-            "en-us": "WeVibe Wand"
-          },
+          "name": "WeVibe Wand",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -1647,9 +1421,7 @@
             "Bond",
             "Nelson"
           ],
-          "name": {
-            "en-us": "WeVibe Bond"
-          },
+          "name": "WeVibe Bond",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -1665,9 +1437,7 @@
             "Nova_2",
             "Nova 2"
           ],
-          "name": {
-            "en-us": "WeVibe Nova 2"
-          },
+          "name": "WeVibe Nova 2",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1696,9 +1466,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "WeVibe Realm Reina"
-        },
+        "name": "WeVibe Realm Reina",
         "messages": {}
       }
     },
@@ -1714,9 +1482,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Youcups Warrior II"
-        },
+        "name": "Youcups Warrior II",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -1739,9 +1505,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Cueme Device"
-        },
+        "name": "Cueme Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 8,
@@ -1763,25 +1527,19 @@
           "identifier": [
             "1"
           ],
-          "name": {
-            "en-us": "Cueme Mens"
-          }
+          "name": "Cueme Mens"
         },
         {
           "identifier": [
             "2"
           ],
-          "name": {
-            "en-us": "Cueme Bra"
-          }
+          "name": "Cueme Bra"
         },
         {
           "identifier": [
             "3"
           ],
-          "name": {
-            "en-us": "Cueme Womans"
-          },
+          "name": "Cueme Womans",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 4,
@@ -1814,9 +1572,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Kiiroo V2 Vibrator Device"
-        },
+        "name": "Kiiroo V2 Vibrator Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 3,
@@ -1833,9 +1589,7 @@
           "identifier": [
             "Pearl2"
           ],
-          "name": {
-            "en-us": "Kiiroo Pearl 2"
-          },
+          "name": "Kiiroo Pearl 2",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -1849,9 +1603,7 @@
           "identifier": [
             "Fuse"
           ],
-          "name": {
-            "en-us": "OhMiBod Fuse"
-          },
+          "name": "OhMiBod Fuse",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1870,9 +1622,7 @@
           "identifier": [
             "Virtual Rabbit"
           ],
-          "name": {
-            "en-us": "PornHub Virtual Rabit"
-          },
+          "name": "PornHub Virtual Rabit",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1891,9 +1641,7 @@
           "identifier": [
             "Virtual Blowbot"
           ],
-          "name": {
-            "en-us": "PornHub Virtual Blowbot"
-          },
+          "name": "PornHub Virtual Blowbot",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -1908,9 +1656,7 @@
           "identifier": [
             "Titan"
           ],
-          "name": {
-            "en-us": "Kiiroo Titan"
-          },
+          "name": "Kiiroo Titan",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 3,
@@ -1948,9 +1694,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Kiiroo V2.1 Device"
-        },
+        "name": "Kiiroo V2.1 Device",
         "messages": {}
       },
       "configurations": [
@@ -1958,9 +1702,7 @@
           "identifier": [
             "Pearl2.1"
           ],
-          "name": {
-            "en-us": "Kiiroo Pearl 2.1"
-          },
+          "name": "Kiiroo Pearl 2.1",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -1974,9 +1716,7 @@
           "identifier": [
             "Cliona"
           ],
-          "name": {
-            "en-us": "Kiiroo Cliona"
-          },
+          "name": "Kiiroo Cliona",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -1990,9 +1730,7 @@
           "identifier": [
             "OhMiBod 4.0"
           ],
-          "name": {
-            "en-us": "OhMiBod Esca 2"
-          },
+          "name": "OhMiBod Esca 2",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2006,9 +1744,7 @@
           "identifier": [
             "Titan1.1"
           ],
-          "name": {
-            "en-us": "Kiiroo Titan 1.1"
-          },
+          "name": "Kiiroo Titan 1.1",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2029,9 +1765,7 @@
           "identifier": [
             "OhMiBod LUMEN"
           ],
-          "name": {
-            "en-us": "OhMiBod Lumen"
-          },
+          "name": "OhMiBod Lumen",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2045,9 +1779,7 @@
           "identifier": [
             "OhMiBod NEX3"
           ],
-          "name": {
-            "en-us": "OhMiBod NEX|3"
-          },
+          "name": "hMiBod NEX|3",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2061,9 +1793,7 @@
           "identifier": [
             "Pulse Interactive"
           ],
-          "name": {
-            "en-us": "Hot Octopuss Pulse Solo Interactive"
-          },
+          "name": "Hot Octopuss Pulse Solo Interactive",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2093,9 +1823,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Kiiroo V2.1 Initialized Device"
-        },
+        "name": "Kiiroo V2.1 Initialized Device",
         "messages": {}
       },
       "configurations": [
@@ -2103,9 +1831,7 @@
           "identifier": [
             "Onyx2.1"
           ],
-          "name": {
-            "en-us": "Kiiroo Onyx 2.1"
-          },
+          "name": "Kiiroo Onyx 2.1",
           "messages": {
             "LinearCmd": {
               "FeatureCount": 1,
@@ -2120,9 +1846,7 @@
           "identifier": [
             "Onyx+"
           ],
-          "name": {
-            "en-us": "Kiiroo Onyx+"
-          },
+          "name": "Kiiroo Onyx+",
           "messages": {
             "LinearCmd": {
               "FeatureCount": 1,
@@ -2137,9 +1861,7 @@
           "identifier": [
             "KEON"
           ],
-          "name": {
-            "en-us": "Kiiroo Keon"
-          },
+          "name": "Kiiroo Keon",
           "messages": {
             "LinearCmd": {
               "FeatureCount": 1,
@@ -2155,9 +1877,7 @@
             "Rey",
             "We-Vibe Rocketman"
           ],
-          "name": {
-            "en-us": "Kiiroo Onyx+ Realm Edition"
-          },
+          "name": "Kiiroo Onyx+ Realm Edition",
           "messages": {
             "LinearCmd": {
               "FeatureCount": 1,
@@ -2178,9 +1898,7 @@
         }
       ],
       "defaults": {
-        "name": {
-          "en-us": "Vorze Cyclone X10 Device"
-        },
+        "name": "Vorze Cyclone X10 Device",
         "messages": {
           "RotateCmd": {
             "FeatureCount": 1,
@@ -2199,9 +1917,7 @@
         }
       ],
       "defaults": {
-        "name": {
-          "en-us": "Rez TranceVibrator"
-        },
+        "name": "Rez TranceVibrator",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -2227,9 +1943,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Kiiroo V1 Device"
-        },
+        "name": "Kiiroo V1 Device",
         "messages": {}
       },
       "configurations": [
@@ -2237,9 +1951,7 @@
           "identifier": [
             "PEARL"
           ],
-          "name": {
-            "en-us": "Kiiroo Pearl"
-          },
+          "name": "Kiiroo Pearl",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2253,9 +1965,7 @@
           "identifier": [
             "ONYX"
           ],
-          "name": {
-            "en-us": "Kiiroo Onyx"
-          },
+          "name": "Kiiroo Onyx",
           "messages": {
             "LinearCmd": {
               "FeatureCount": 1,
@@ -2283,9 +1993,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Vorze Device"
-        },
+        "name": "Vorze Device",
         "messages": {}
       },
       "configurations": [
@@ -2293,9 +2001,7 @@
           "identifier": [
             "Bach smart"
           ],
-          "name": {
-            "en-us": "Vorze Bach"
-          },
+          "name": "Vorze Bach",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2309,9 +2015,7 @@
           "identifier": [
             "ROCKET"
           ],
-          "name": {
-            "en-us": "Adult Festa Rocket"
-          },
+          "name": "Adult Festa Rocket",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2325,9 +2029,7 @@
           "identifier": [
             "CycSA"
           ],
-          "name": {
-            "en-us": "Vorze A10 Cyclone SA"
-          },
+          "name": "Vorze A10 Cyclone SA",
           "messages": {
             "RotateCmd": {
               "FeatureCount": 1,
@@ -2342,9 +2044,7 @@
           "identifier": [
             "UFOSA"
           ],
-          "name": {
-            "en-us": "Vorze UFO SA"
-          },
+          "name": "Vorze UFO SA",
           "messages": {
             "RotateCmd": {
               "FeatureCount": 1,
@@ -2359,9 +2059,7 @@
           "identifier": [
             "VorzePiston"
           ],
-          "name": {
-            "en-us": "Vorze Piston"
-          },
+          "name": "Vorze Piston",
           "messages": {
             "LinearCmd": {
               "FeatureCount": 1,
@@ -2385,9 +2083,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Youou Wand Vibrator"
-        },
+        "name": "Youou Wand Vibrator",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -2406,9 +2102,7 @@
         }
       ],
       "defaults": {
-        "name": {
-          "en-us": "RealTouch"
-        },
+        "name": "RealTouch",
         "messages": {
           "LinearCmd": {
             "FeatureCount": 1,
@@ -2432,9 +2126,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Pretty Love Device"
-        },
+        "name": "Pretty Love Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -2463,9 +2155,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Svakom Device"
-        },
+        "name": "Svakom Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -2480,33 +2170,25 @@
           "identifier": [
             "Aogu SCB"
           ],
-          "name": {
-            "en-us": "Svakom Ella"
-          }
+          "name": "Svakom Ella"
         },
         {
           "identifier": [
             "Ella NEO"
           ],
-          "name": {
-            "en-us": "Svakom Ella Neo"
-          }
+          "name": "Svakom Ella Neo"
         },
         {
           "identifier": [
             "Phoenix NEO"
           ],
-          "name": {
-            "en-us": "Svakom Phoenix Neo"
-          }
+          "name": "Svakom Phoenix Neo"
         },
         {
           "identifier": [
             "Vick NEO"
           ],
-          "name": {
-            "en-us": "Svakom Vick Neo"
-          }
+          "name": "Svakom Vick Neo"
         }
       ]
     },
@@ -2522,9 +2204,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Svakom Sam Neo"
-        },
+        "name": "Svakom Sam Neo",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -2548,9 +2228,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Svakom Alex Neo"
-        },
+        "name": "Svakom Alex Neo",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -2573,9 +2251,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Svakom Iker"
-        },
+        "name": "Svakom Iker",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -2599,9 +2275,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Realov Device"
-        },
+        "name": "Realov Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -2625,9 +2299,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Motorbunny Device"
-        },
+        "name": "Motorbunny Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -2648,17 +2320,13 @@
           "identifier": [
             "MB Controller"
           ],
-          "name": {
-            "en-us": "Motorbunny Classic"
-          }
+          "name": "Motorbunny Classic"
         },
         {
           "identifier": [
             "MB LINK 201"
           ],
-          "name": {
-            "en-us": "Motorbunny Buck"
-          }
+          "name": "Motorbunny Buck"
         }
       ]
     },
@@ -2676,9 +2344,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Zalo Device"
-        },
+        "name": "Zalo Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -2693,9 +2359,7 @@
           "identifier": [
             "ZALO-Queen"
           ],
-          "name": {
-            "en-us": "Zalo Queen"
-          },
+          "name": "Zalo Queen",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -2714,9 +2378,7 @@
           "identifier": [
             "ZALO-King"
           ],
-          "name": {
-            "en-us": "Zalo King"
-          },
+          "name": "Zalo King",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -2731,9 +2393,7 @@
           "identifier": [
             "ZALO-Jeanne"
           ],
-          "name": {
-            "en-us": "Zalo Jeanne"
-          }
+          "name": "Zalo Jeanne"
         }
       ]
     },
@@ -2751,9 +2411,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "SayberX Device"
-        },
+        "name": "SayberX Device",
         "messages": {}
       },
       "configurations": [
@@ -2761,9 +2419,7 @@
           "identifier": [
             "SayberX"
           ],
-          "name": {
-            "en-us": "SayberX"
-          },
+          "name": "SayberX",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2777,9 +2433,7 @@
           "identifier": [
             "X-Ring"
           ],
-          "name": {
-            "en-us": "Sayber X-Ring"
-          }
+          "name": "Sayber X-Ring"
         }
       ]
     },
@@ -2796,9 +2450,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Muse Device"
-        },
+        "name": "Muse Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -2813,17 +2465,13 @@
           "identifier": [
             "WB-ZDB-WST"
           ],
-          "name": {
-            "en-us": "Dream Lover Archer 2"
-          }
+          "name": "Dream Lover Archer 2"
         },
         {
           "identifier": [
             "WB-TDD"
           ],
-          "name": {
-            "en-us": "Galaku Panty Vib"
-          }
+          "name": "Galaku Panty Vib"
         }
       ]
     },
@@ -2840,9 +2488,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Lelo F1s"
-        },
+        "name": "Lelo F1s",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -2869,9 +2515,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Lelo F1s V2"
-        },
+        "name": "Lelo F1s V2",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -2895,9 +2539,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Aneros Vivi"
-        },
+        "name": "Aneros Vivi",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -2923,9 +2565,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Lovehoney Device"
-        },
+        "name": "Lovehoney Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -2941,17 +2581,13 @@
           "identifier": [
             "PROSTATE VIBE"
           ],
-          "name": {
-            "en-us": "Lovehoney Desire Prostate Vibrator"
-          }
+          "name": "Lovehoney Desire Prostate Vibrator"
         },
         {
           "identifier": [
             "KNICKER VIBE"
           ],
-          "name": {
-            "en-us": "Lovehoney Desire Knicker Vibrator"
-          },
+          "name": "Lovehoney Desire Knicker Vibrator",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2965,9 +2601,7 @@
           "identifier": [
             "LOVE EGG"
           ],
-          "name": {
-            "en-us": "Lovehoney Desire Love Egg"
-          },
+          "name": "Lovehoney Desire Love Egg",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 1,
@@ -2994,9 +2628,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Twerking Butt"
-        },
+        "name": "Twerking Butt",
         "messages": {}
       }
     },
@@ -3012,9 +2644,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "MaxPro 2"
-        },
+        "name": "MaxPro 2",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -3036,9 +2666,7 @@
         }
       ],
       "defaults": {
-        "name": {
-          "en-us": "Nobra's Silicone Dreams Toy"
-        },
+        "name": "Nobra's Silicone Dreams Toy",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -3062,9 +2690,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "The Handy"
-        },
+        "name": "The Handy",
         "messages": {
           "LinearCmd": {
             "FeatureCount": 1,
@@ -3089,9 +2715,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Cachito Device"
-        },
+        "name": "Cachito Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -3107,17 +2731,13 @@
           "identifier": [
             "CCTSK"
           ],
-          "name": {
-            "en-us": "Cachito Lure Tao"
-          }
+          "name": "Cachito Lure Tao"
         },
         {
           "identifier": [
             "CCTXueGao"
           ],
-          "name": {
-            "en-us": "Cachito Ice Cream"
-          }
+          "name": "Cachito Ice Cream"
         }
       ]
     },
@@ -3133,9 +2753,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Je Joue Device"
-        },
+        "name": "Je Joue Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -3159,9 +2777,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Love Nut"
-        },
+        "name": "Love Nut",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -3188,9 +2804,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Patoo Device"
-        },
+        "name": "Patoo Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -3205,33 +2819,25 @@
           "identifier": [
             "PTVEA"
           ],
-          "name": {
-            "en-us": "Patoo Carrot"
-          }
+          "name": "Patoo Carrot"
         },
         {
           "identifier": [
             "PCS"
           ],
-          "name": {
-            "en-us": "Patoo Vibrator"
-          }
+          "name": "Patoo Vibrator"
         },
         {
           "identifier": [
             "PHT"
           ],
-          "name": {
-            "en-us": "Patoo Bean Sprout"
-          }
+          "name": "Patoo Bean Sprout"
         },
         {
           "identifier": [
             "PBT"
           ],
-          "name": {
-            "en-us": "Patoo Devil"
-          },
+          "name": "Patoo Devil",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -3255,9 +2861,7 @@
         }
       ],
       "defaults": {
-        "name": {
-          "en-us": "TCode v0.3 (Single Linear Axis)"
-        },
+        "name": "TCode v0.3 (Single Linear Axis)",
         "messages": {
           "LinearCmd": {
             "FeatureCount": 1,
@@ -3282,9 +2886,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Fredorch Device"
-        },
+        "name": "Fredorch Device",
         "messages": {
           "LinearCmd": {
             "FeatureCount": 1,
@@ -3308,9 +2910,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Mizz Zee Device"
-        },
+        "name": "Mizz Zee Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -3336,9 +2936,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "HTK Breast Massager"
-        },
+        "name": "HTK Breast Massager",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 2,
@@ -3363,9 +2961,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Ankni Candy"
-        },
+        "name": "Ankni Candy",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -3389,9 +2985,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Hgod Butterfly Love"
-        },
+        "name": "Hgod Butterfly Love",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -3419,9 +3013,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Love Distance Device"
-        },
+        "name": "Love Distance Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -3436,41 +3028,31 @@
           "identifier": [
             "REACH G"
           ],
-          "name": {
-            "en-us": "Love Distance Reach G"
-          }
+          "name": "Love Distance Reach G"
         },
         {
           "identifier": [
             "REACH"
           ],
-          "name": {
-            "en-us": "Love Distance Reach"
-          }
+          "name": "Love Distance Reach"
         },
         {
           "identifier": [
             "MAG"
           ],
-          "name": {
-            "en-us": "Love Distance Mag"
-          }
+          "name": "Love Distance Mag"
         },
         {
           "identifier": [
             "SPAN"
           ],
-          "name": {
-            "en-us": "Love Distance Span"
-          }
+          "name": "Love Distance Span"
         },
         {
           "identifier": [
             "RANGE"
           ],
-          "name": {
-            "en-us": "Love Distance Range"
-          }
+          "name": "Love Distance Range"
         }
       ]
     },
@@ -3493,9 +3075,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "Satisfyer Device"
-        },
+        "name": "Satisfyer Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
@@ -3510,17 +3090,13 @@
           "identifier": [
             "SF Royal One"
           ],
-          "name": {
-            "en-us": "Satisfyer Royal One"
-          }
+          "name": "Satisfyer Royal One"
         },
         {
           "identifier": [
             "SF Love Triangle"
           ],
-          "name": {
-            "en-us": "Satisfyer Love Triangle"
-          },
+          "name": "Satisfyer Love Triangle",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -3535,9 +3111,7 @@
           "identifier": [
             "SF Double Joy"
           ],
-          "name": {
-            "en-us": "Satisfyer Double Joy"
-          },
+          "name": "Satisfyer Double Joy",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -3552,17 +3126,13 @@
           "identifier": [
             "Double Wand-er"
           ],
-          "name": {
-            "en-us": "Satisfyer Double Wand-er"
-          }
+          "name": "Satisfyer Double Wand-er"
         },
         {
           "identifier": [
             "SF Curvy 2+"
           ],
-          "name": {
-            "en-us": "Satisfyer Curvy 2+"
-          },
+          "name": "Satisfyer Curvy 2+",
           "messages": {
             "VibrateCmd": {
               "FeatureCount": 2,
@@ -3577,25 +3147,19 @@
           "identifier": [
             "Plug-ilicious 1"
           ],
-          "name": {
-            "en-us": "Satisfyer Plug-ilicious 1"
-          }
+          "name": "Satisfyer Plug-ilicious 1"
         },
         {
           "identifier": [
             "Plug-ilicious 2"
           ],
-          "name": {
-            "en-us": "Satisfyer Plug-ilicious 2"
-          }
+          "name": "Satisfyer Plug-ilicious 2"
         },
         {
           "identifier": [
             "SF Little Secret"
           ],
-          "name": {
-            "en-us": "Satisfyer Little Secret"
-          }
+          "name": "Satisfyer Little Secret"
         }
       ]
     },
@@ -3615,9 +3179,7 @@
         }
       },
       "defaults": {
-        "name": {
-          "en-us": "ManNuo Device"
-        },
+        "name": "ManNuo Device",
         "messages": {
           "VibrateCmd": {
             "FeatureCount": 1,
